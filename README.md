@@ -36,7 +36,7 @@
 
 - **[AWS Security Posture Checker](https://github.com/itsshloka/aws-security-posture-checker)** — Python/boto3 tool scanning AWS accounts for common misconfigurations (public S3 buckets, over-permissive IAM, stale keys, open security groups), with a severity-prioritized report and mocked unit tests.
 
-*(Replace the `#` links above with your actual GitHub repo URLs.)*
+
 
 ---
 
